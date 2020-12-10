@@ -8,3 +8,5 @@
 [1210/073413.108:ERROR:crash_report_database_win.cc(472)] failed to read records
 [1210/073436.073:ERROR:file_io.cc(90)] ReadExactly: expected 392, observed 0
 [1210/073436.073:ERROR:crash_report_database_win.cc(472)] failed to read records
+[1210/085629.582:ERROR:file_io.cc(90)] ReadExactly: expected 392, observed 0
+[1210/085629.582:ERROR:crash_report_database_win.cc(472)] failed to read records
