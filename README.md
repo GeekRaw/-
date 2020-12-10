@@ -1,10 +1,6 @@
 # 课室管理系统
 第十组
 
-小组成员：
+**任务分配和项目进展**
 
-* 李嘉明
-* 何秋香
-* 陈建树
-* 陈浩为
-* 关彩根
+<img src="https://ae02.alicdn.com/kf/Hb3e71daba0e9474a8f85d6ab3c7f8a82o.png" alt="image.png" title="image.png" />
