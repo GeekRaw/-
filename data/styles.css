@@ -71,6 +71,8 @@
 }
 .connector {
 }
+.snapshot {
+}
 .sticky_1 {
   text-align:left;
 }
@@ -118,5 +120,11 @@
 .text_area {
   color:#000000;
   text-align:left;
+}
+.icon {
+}
+.box_2 {
+}
+.placeholder {
 }
 textarea, select, input, button { outline: none; }
