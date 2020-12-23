@@ -1,0 +1,6 @@
+[1210/092946.628:ERROR:file_io.cc(90)] ReadExactly: expected 392, observed 0
+[1210/092946.629:ERROR:crash_report_database_win.cc(472)] failed to read records
+[1210/093747.764:ERROR:file_io.cc(90)] ReadExactly: expected 392, observed 0
+[1210/093747.764:ERROR:crash_report_database_win.cc(472)] failed to read records
+[1210/094102.730:ERROR:file_io.cc(90)] ReadExactly: expected 392, observed 0
+[1210/094102.730:ERROR:crash_report_database_win.cc(472)] failed to read records
